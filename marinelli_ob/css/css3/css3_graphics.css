@@ -36,14 +36,14 @@
 
 .cssgradients #navigation-primary h2 > a,
 .cssgradients #navigation-primary > ul > li > a{
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #7ab0d4),color-stop(0.4, #156aa3));
-	background: -moz-linear-gradient(top center,#7ab0d4,#156aa3 40%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #f9cbec),color-stop(0.4, #eb52c1));
+	background: -moz-linear-gradient(top center,#f9cbec,#eb52c1 40%);
 }
 
 .cssgradients #navigation-primary > ul > li > a.active,
 .cssgradients #navigation-primary > ul > li > h2 > a.active{
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #f9cbec),color-stop(0.4, #eb52c1));
-	background: -moz-linear-gradient(top center,#f9cbec,#eb52c1 40%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #f9cbec),color-stop(0.4, #eb18b3));
+	background: -moz-linear-gradient(top center,#f9cbec,#eb18b3 40%);
 }
 
 .cssgradients #navigation-primary > ul > li > a:hover,
@@ -71,8 +71,8 @@
 -------------------------------------------------------------- */
 
 .cssgradients #block-user-login .block-title{
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #5f9ac7),color-stop(0.4, #054b81));
-	background: -moz-linear-gradient(top center,#5f9ac7,#054b81 40%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #5f9ac7),color-stop(0.4, #e605aa));
+	background: -moz-linear-gradient(top center,#5f9ac7,#e605aa 40%);
 }
 
 /*	Advertise
@@ -111,8 +111,8 @@
 }
 
 .cssgradients #block-user-login .form-submit{
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #5f9ac7),color-stop(0.4, #054b81));
-	background: -moz-linear-gradient(top center,#5f9ac7,#054b81 40%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #5f9ac7),color-stop(0.4, #e605aa));
+	background: -moz-linear-gradient(top center,#5f9ac7,#e605aa 40%);
 }
 
 .cssgradients .form-submit:focus,

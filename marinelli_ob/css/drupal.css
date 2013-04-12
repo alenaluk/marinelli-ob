@@ -134,7 +134,7 @@ body.page-taxonomy-term h1#page-title{ /* taxonomy term page */
 .tabs.secondary a:hover{
 	text-decoration: none;
 	color:#fff;
-	background: #054b81;
+	background: #e605aa;
 }
 
 div.messages.status{
@@ -179,7 +179,7 @@ div.messages.error a{
 #content .item-list ul.pager li.pager-item a:hover{
 	font-weight: bold;
 	color:white;
-	background: #054b81;
+	background: #e605aa;
 	border:1px solid #4585af;
 }
 

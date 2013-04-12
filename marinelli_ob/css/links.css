@@ -11,12 +11,12 @@
 a,
 a:visited,
 li a.active{
-	color: #156aa3;
+	color: #b21f88;
 	text-decoration: underline;
 	}
 
-a:hover {color:#163e55;}
-a:active {color:#f97e05;} 
+a:hover {color:#9c1a78;}
+a:active {color:#ca1196;} 
 a:focus{outline: none;}
 a img{border: none;}
 

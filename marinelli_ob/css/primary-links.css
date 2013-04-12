@@ -184,7 +184,7 @@
 
 #navigation-primary > ul > li > a.active,
 #navigation-primary > ul > li > h2 > a.active{ /* active state of the first level */
-	background:#054b81;
+	background:#e605aa;
 	color:#fff;
 }	
 	
