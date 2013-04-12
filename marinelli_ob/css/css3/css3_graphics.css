@@ -42,8 +42,8 @@
 
 .cssgradients #navigation-primary > ul > li > a.active,
 .cssgradients #navigation-primary > ul > li > h2 > a.active{
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #5f9ac7),color-stop(0.4, #054b81));
-	background: -moz-linear-gradient(top center,#5f9ac7,#054b81 40%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #f9cbec),color-stop(0.4, #eb52c1));
+	background: -moz-linear-gradient(top center,#f9cbec,#eb52c1 40%);
 }
 
 .cssgradients #navigation-primary > ul > li > a:hover,
