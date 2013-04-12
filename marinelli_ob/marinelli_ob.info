@@ -6,7 +6,7 @@ base theme = marinelli
 
 ;stylesheets[all][] = css/reset/reset.css
 ;stylesheets[all][] = css/common.css
-;stylesheets[all][] = css/links.css
+stylesheets[all][] = css/links.css
 ;stylesheets[all][] = css/typography.css
 stylesheets[all][] = css/forms.css
 stylesheets[all][] = css/drupal.css

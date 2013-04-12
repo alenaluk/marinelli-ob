@@ -15,8 +15,8 @@ li a.active{
 	text-decoration: underline;
 	}
 
-a:hover {color:#9c1a78;}
-a:active {color:#ca1196;} 
+a:hover {color:#e37100;}
+a:active {color:#d76c01;} 
 a:focus{outline: none;}
 a img{border: none;}
 
